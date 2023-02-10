@@ -1,1 +1,2 @@
 Hi, This a sample repo to understand Git features
+Diff in Git Revert & Git Reset ?
